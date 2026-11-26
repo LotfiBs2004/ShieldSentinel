@@ -1,6 +1,6 @@
 # ShieldSentinel
 <p align="center">
-  <img src="shieldsentinel.jpeg" alt="ShieldSentinel blue knight logo" width="700" />
+  <img src="shieldsentinel.jpeg" alt="ShieldSentinel blue knight logo" width="300" />
 </p><h3 align="center">Guarding Networks. Detecting Threats.</h3>ShieldSentinel is a machine-learning-powered Network Intrusion Detection System (ML-NIDS) project focused on analyzing network traffic and identifying suspicious or potentially malicious activity.
 
 The idea is to combine network-security concepts with machine learning to explore how intelligent detection can help defenders understand network behavior and spot threats.
